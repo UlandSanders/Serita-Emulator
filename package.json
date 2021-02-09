@@ -1,0 +1,29 @@
+{
+	"name": "powermouse",
+	"description": "powerful web proxy",
+	"version": "1.5.0",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vibedivide/powermouse.git"
+	},
+	"keywords": [],
+	"author": "Divide",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/vibedivide/powermouse/issues"
+	},
+	"scripts": {
+		"start": "node app.js"
+	},
+	"homepage": "https://ldm.sys32.dev/",
+	"dependencies": {
+		"compression": "^1.7.4",
+		"express": "^4.17.1",
+		"html-minifier": "^4.0.0",
+		"imagemin-webp": "^6.0.0",
+		"mime": "^2.4.6",
+		"node-fetch": "^2.6.1",
+		"ws": "^7.3.1"
+	}
+}
