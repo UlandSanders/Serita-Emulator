@@ -1,0 +1,7 @@
+{
+  "name": "Powermouse",
+  "description": "Powerful web proxy for evading censorship",
+  "repository": "https://github.com/titaniumnetwork-dev/powermouse",
+  "logo": "https://sys32.dev/assets/src/pm.webp",
+  "keywords": ["node", "express", "unblocker"]
+}
